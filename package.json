@@ -1,0 +1,25 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "Simple Node Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magdmagd/Coursera-Nodejs-Course.git"
+  },
+  "keywords": [
+    "Function",
+    "module",
+    "node",
+    "example"
+  ],
+  "author": "Magd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magdmagd/Coursera-Nodejs-Course/issues"
+  },
+  "homepage": "https://github.com/magdmagd/Coursera-Nodejs-Course#readme"
+}
